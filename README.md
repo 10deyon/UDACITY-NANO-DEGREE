@@ -1,5 +1,5 @@
 ## Load Balancer URL
-http://http://udagr-udagr-fcwjviq29m8j-1419787552.us-west-2.elb.amazonaws.com/
+http://udagr-udagr-fcwjviq29m8j-1419787552.us-west-2.elb.amazonaws.com/
 
 <!-- Authors -->
 ## Authors
